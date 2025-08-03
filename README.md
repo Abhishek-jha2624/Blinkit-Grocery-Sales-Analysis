@@ -32,7 +32,7 @@ This project analyzes Blinkit's grocery sales data using SQL for data preparatio
 
 ---
 
-## 👤 Author
+## Author
 **Abhishek Kumar Jha**  
 Aspiring Data Analyst | NIT Raipur  
 
