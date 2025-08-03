@@ -4,7 +4,7 @@ This project analyzes Blinkit's grocery sales data using SQL for data preparatio
 
 ---
 
-## 📌 Project Highlights
+## Project Highlights
 
 - Cleaned and transformed raw data using SQL
 - Extracted KPIs: total sales, item count, average rating, avg. sales per item
@@ -16,7 +16,7 @@ This project analyzes Blinkit's grocery sales data using SQL for data preparatio
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - **Total Sales:** ₹64.26M | **Items Sold:** 8,523 | **Avg. Rating:** 3.76
 - **Top Category:** Fruits & Vegetables | **Best Outlet Type:** Supermarket Type1
@@ -24,17 +24,11 @@ This project analyzes Blinkit's grocery sales data using SQL for data preparatio
 
 ---
 
-## 📊 Tools Used
+## Tools Used
 - SQL (Data Cleaning & Analysis)
 - Power BI (Dashboard & Visualization)
 
 ---
-
-## 📁 Files Included
-- `Blinkit_Sales_Analysis_Report.docx` – Project report
-- `Blinkit_Project.pbip` – Power BI Dashboard
-- `README.md` – Project summary
-- `blinkit_analysis.sql` – SQL queries
 
 ---
 
